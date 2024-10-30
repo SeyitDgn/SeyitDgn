@@ -1,5 +1,8 @@
+# 💫 Hakkımda:
+Full Stack yazılımcıyım, aynı zamanda hem pazaryeri yöneticisiyim. Uzun zamandır türkiyede ki pazaryerlerinde ürün satışı, satış sonrası hizmetler, pazaryeri yönetimi gibi çalışmalar yapıyorum. Bu çalışmalarda edindiğim tecrübelerimi ihtiyaç duyduğum araçları yazmak ve yönetmek için yazılım alanındaki bilgim ile birleştiriyorum. Bir e-ticaret firmasının ihtiyacı olan konuların tespiti, yönetimi ve başarıyla tamamlanması için gereken konuların yazılımla nasıl birleştirileceğini çok iyi biliyorum.
+
 # 💫 About Me:
-I'm Full Stack Developer.
+I am a Full Stack Developer and also a marketplace manager. For many years, I have been working with product sales, after-sales services, and marketplace management in Turkey's e-commerce platforms. I combine my experience in these areas with my technical expertise to develop and manage the tools I need. I have a strong understanding of identifying, managing, and addressing an e-commerce company's needs and integrating these aspects with software to ensure successful project completion.
 
 
 ## 🌐 Socials:
